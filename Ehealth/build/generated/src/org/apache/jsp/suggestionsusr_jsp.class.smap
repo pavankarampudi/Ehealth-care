@@ -1,0 +1,18 @@
+SMAP
+suggestionsusr_jsp.java
+JSP
+*S JSP
+*F
++ 0 suggestionsusr.jsp
+suggestionsusr.jsp
++ 1 usrlevelmenu.html
+./usrlevelmenu.html
++ 2 footer.html
+./footer.html
+*L
+5:50
+1#1,81:51
+6#0,33:131
+1#2,55:163
+38#0:218
+*E

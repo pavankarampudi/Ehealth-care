@@ -1,0 +1,20 @@
+SMAP
+Desgadmin_jsp.java
+JSP
+*S JSP
+*F
++ 0 Desgadmin.jsp
+Desgadmin.jsp
++ 1 adminlevelmenu.html
+./adminlevelmenu.html
++ 2 footer.html
+./footer.html
+*L
+5,6:52
+1#1,101:57
+10#0,9:158
+18,44:167
+61,8:211
+1#2,55:218
+68#0:273
+*E

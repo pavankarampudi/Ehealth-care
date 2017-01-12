@@ -1,0 +1,14 @@
+SMAP
+admindoctorlist_jsp.java
+JSP
+*S JSP
+*F
++ 0 admindoctorlist.jsp
+admindoctorlist.jsp
++ 1 adminlevelmenu.html
+./adminlevelmenu.html
+*L
+5,5:49
+1#1,112:53
+9#0,18:165
+*E
